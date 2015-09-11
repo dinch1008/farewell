@@ -21,7 +21,17 @@ what i know is everything getting not so bad when i goes wild
 next step is really everybody to 
 
 def non_block_read(output):
+def non block-write(input)
+whrite alicjshs is a really difficult thing and i really don't wanna fix that with my only pc
     ''' even in a thread, a normal read with block until the buffer is full '''
+    CLOSE GATE AS RFC 2048 AND IPSEC
+    ok if it doen't work , i will open the other gate to share 
+    
+    
+    
+    ps: when you use rfc 2408 acturally u explain the details between 2 machine indeed, build, neg
+    
+    rfc deals up to 
     
     
     done
