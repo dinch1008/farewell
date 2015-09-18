@@ -35,3 +35,73 @@ whrite alicjshs is a really difficult thing and i really don't wanna fix that wi
     
     
     done
+<?php
+
+namespace QcloudApi\Example2account;
+
+use QcloudApi\Base\Request;
+
+trait BaseSetupTestTrait{
+    
+
+    /**
+     * @var \QcloudApi\Base\Request
+     */
+    protected $request;
+    
+    /**
+     *
+     * @var array
+     */
+    protected $config;
+    
+    protected function setUp(){
+        parent::setUp();
+        
+        $this->config = \Testsmoke_Loader::configRead('Request_config_api_account');
+        
+        if(empty($this->config['secretId']) || empty($this->config['secretKey'])){
+            $this->markTestSkipped('secretId or secretKey is not set in config file, test will skipped' );
+        }
+        
+        $this->request = new Request($this->config);
+    }
+    
+    
+    
+<?php
+
+echo "what i am doing here?";
+
+if (empty ( $shit -> config ['secretid'])  empty ($this -> config ['sectetkey'])){
+           $this-> marktestskipped ('
+           
+           though empty = true false
+           though log in = true false
+           though log out = true false 
+           anyway loot
+           any in and out = true 
+           
+           php <? ?>
+           commit 
+           $this -> request = new request ($this ->config );
+           if (empty($-config
+           
+           anyway ture or false is not by code, 
+           $@ <? (empty shirt
+           zll zlla
+           config array  
+           $ config ['host']
+           
+           
+           config $[ array host 
+           
+           return $config
+           
+           host: 'cvm.api.qcloud.com';
+           
+           
+           $config ['seretid'] =  "as above" ps
+           $config ['secretedkey 
+           
+           
